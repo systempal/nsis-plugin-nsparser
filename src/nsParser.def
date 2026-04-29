@@ -1,0 +1,4 @@
+; nsParser.def - Export definitions for NSIS plugin
+LIBRARY nsParser
+EXPORTS
+    Extract
